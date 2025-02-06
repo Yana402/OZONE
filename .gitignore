@@ -1,0 +1,3 @@
+/node_modules
+package-lock.jsone
+//чтобы появились эти данные нужно ввести npm -i
